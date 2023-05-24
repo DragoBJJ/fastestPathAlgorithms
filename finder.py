@@ -1,6 +1,5 @@
 import curses
 import time
-import queue
 from curses import wrapper
 from queue import Queue
 
